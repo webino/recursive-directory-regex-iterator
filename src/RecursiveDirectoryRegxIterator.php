@@ -7,6 +7,7 @@
  * @author      Peter Bačinský <peter@bacinsky.sk>
  * @license     BSD-3-Clause
  */
+
 namespace Webino;
 
 /**
